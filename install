@@ -1,0 +1,9 @@
+***React Navigation***
+
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npx expo install react-native-screens react-native-safe-area-context
+npm install react-native-screens react-native-safe-area-context
+
+***Firebase***
+npm install firebase
